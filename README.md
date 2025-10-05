@@ -1,1 +1,1 @@
-# gmemode1
+# gmemode2
