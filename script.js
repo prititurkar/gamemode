@@ -55,7 +55,7 @@ const playGame = (userChoice) => {
 
 choices.forEach((choice) => {
     choice.addEventListener("click", () =>{
-        const usreChoice = choice.getAttribute("id");
-        playGame(usreChoice);
+        const userChoice = choice.getAttribute("id");
+        playGame(userChoice);
     });
 });
